@@ -1,5 +1,4 @@
-
- #Gestor de Contraseñas
+# Gestor de Contraseñas
 
 Este proyecto consiste en una aplicación Android desarrollada utilizando Java y XML. Su principal función es permitir a los usuarios gestionar sus contraseñas de manera sencilla y segura. La interfaz de usuario está diseñada para ser simple, con botones para iniciar sesión y registrarse.
 
